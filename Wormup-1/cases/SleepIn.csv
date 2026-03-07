@@ -1,0 +1,5 @@
+# expected,arg1,arg2
+true,true,true
+false,true,false
+true,false,true
+true,false,false

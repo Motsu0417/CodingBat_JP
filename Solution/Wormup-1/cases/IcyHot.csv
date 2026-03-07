@@ -1,0 +1,7 @@
+# expected,arg1
+true,120,-1
+true,-1,120
+false,2,120
+false,-1,100
+false,-2,-2
+false,120,120
