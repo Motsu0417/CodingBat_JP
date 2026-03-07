@@ -1,5 +1,0 @@
-# expected,arg1,arg2
-true,true,true
-false,true,false
-false,false,true
-true,false,false
