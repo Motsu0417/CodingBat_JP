@@ -1,0 +1,8 @@
+# expected,arg1
+"ChoCho","Chocolate",2
+"ChoChoCho","Chocolate",3
+"AbcAbcAbc","Abc",3
+"AbAbAbAb","Ab",4
+"AAAA","A",4
+"","",4
+"","Abc",0

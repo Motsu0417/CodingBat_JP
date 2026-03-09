@@ -1,0 +1,12 @@
+# expected
+true,"axxbb"
+false,"axaxax"
+true,"xxxxx"
+false,"xaxxx"
+false,"aaaax"
+false,""
+false,"abc"
+false,"x"
+true,"xx"
+false,"xax"
+false,"xaxx"

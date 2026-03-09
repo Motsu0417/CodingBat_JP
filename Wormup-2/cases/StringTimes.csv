@@ -1,0 +1,11 @@
+# expected,arg1
+"HiHi","Hi",2
+"HiHiHi","Hi",3
+"Hi","Hi",1
+"","Hi",0
+"HiHiHiHiHi","Hi",5
+"Oh Boy!Oh Boy!","Oh Boy!",2
+"xxxx","x",4
+"","",4
+"codecode","code",2
+"codecodecode","code",3

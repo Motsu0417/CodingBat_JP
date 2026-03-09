@@ -1,0 +1,9 @@
+# expected
+"xHix","xxHxix"
+"abcd","abxxxcd"
+"xabcdx","xabxxxcdx"
+"xKittenx","xKittenx"
+"Hello","Hello"
+"xx","xx"
+"x","x"
+"",""
