@@ -1,0 +1,8 @@
+# expected,arg1
+"ell","Hello"
+"b","abc"
+"","ab"
+"","a"
+"",""
+"old","coldy"
+"ava cod","javacode"

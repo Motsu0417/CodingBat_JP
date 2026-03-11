@@ -1,0 +1,7 @@
+# expected,arg1
+"loHi","Hello","Hi"
+"ellojava","Hello","java"
+"javaello","java","Hello"
+"cx","abc","x"
+"xc","x","abc"
+"","abc",""

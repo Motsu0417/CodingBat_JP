@@ -1,0 +1,12 @@
+# expected,arg1
+"hiHellohi","Hello","hi"
+"hiHellohi","hi","Hello"
+"baaab","aaa","b"
+"baaab","b","aaa"
+"aaa","aaa",""
+"bb","","bb"
+"aaa1234aaa","aaa","1234"
+"bbaaabb","aaa","bb"
+"abba","a","bb"
+"abba","bb","a"
+"abxyzab","xyz","ab"

@@ -1,0 +1,12 @@
+# expected
+"red","redxx"
+"","xxred"
+"blue","blueTimes"
+"","NoColor"
+"red","red"
+"","re"
+"","blu"
+"blue","blue"
+"","a"
+"",""
+"","xyzred"

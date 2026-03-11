@@ -1,0 +1,8 @@
+# expected
+"he","hello"
+"hi","hi"
+"h@","h"
+"@@",""
+"ki","kitten"
+"ja","java"
+"j@","j"

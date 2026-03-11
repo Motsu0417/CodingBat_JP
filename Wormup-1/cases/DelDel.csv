@@ -1,0 +1,12 @@
+# expected
+"abc","adelbc"
+"aHello","adelHello"
+"adedbc","adedbc"
+"abcdel","abcdel"
+"add","add"
+"ad","ad"
+"a","a"
+"",""
+"del","del"
+"a","adel"
+"aadelbb","aadelbb"

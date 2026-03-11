@@ -1,0 +1,6 @@
+# expected,arg1
+"<<Yay>>","<<>>","Yay"
+"<<WooHoo>>","<<>>","WooHoo"
+"[[word]]","[[]]","word"
+"HHHellooo","HHoo","Hello"
+"abYAYyz","abyz","YAY"

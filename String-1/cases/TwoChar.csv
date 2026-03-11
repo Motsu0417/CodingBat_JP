@@ -1,0 +1,16 @@
+# expected,arg1
+"ja","java",0
+"va","java",2
+"ja","java",3
+"ja","java",4
+"ja","java",-1
+"He","Hello",0
+"el","Hello",1
+"He","Hello",99
+"lo","Hello",3
+"He","Hello",4
+"He","Hello",5
+"He","Hello",-7
+"He","Hello",6
+"He","Hello",-1
+"ya","yay",0

@@ -1,0 +1,10 @@
+# expected,arg1
+"ls","last","chars"
+"ya","yo","java"
+"h@","hi",""
+"@o","","hello"
+"@@","",""
+"ki","kitten","hi"
+"kp","k","zip"
+"k@","kitten",""
+"kp","kitten","zip"

@@ -1,0 +1,8 @@
+# expected,arg1
+"<i>Yay</i>","i","Yay"
+"<i>Hello</i>","i","Hello"
+"<cite>Yay</cite>","cite","Yay"
+"<address>here</address>","address","here"
+"<body>Heart</body>","body","Heart"
+"<i>i</i>","i","i"
+"<i></i>","i",""

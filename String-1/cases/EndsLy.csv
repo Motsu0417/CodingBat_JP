@@ -1,0 +1,10 @@
+# expected
+true,"oddly"
+false,"y"
+false,"oddy"
+false,"oddl"
+false,"olydd"
+true,"ly"
+false,""
+false,"falsey"
+true,"evenly"

@@ -1,0 +1,7 @@
+# expected,arg1
+"abcat","abc","cat"
+"dogcat","dog","cat"
+"abc","abc",""
+"cat","","cat"
+"pig","pig","g"
+"pigdoggy","pig","doggy"

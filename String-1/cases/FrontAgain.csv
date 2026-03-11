@@ -1,0 +1,12 @@
+# expected
+true,"edited"
+false,"edit"
+true,"ed"
+true,"jj"
+true,"jjj"
+true,"jjjj"
+false,"jjjk"
+false,"x"
+false,""
+false,"java"
+true,"javaja"
