@@ -16,6 +16,6 @@ makeTags("cite", "Yay") → "<cite>Yay</cite>"
 public class MakeTags{
 	public static String makeTags(String tag, String word) {
 		// ここに回答を記入
-		return String.format("<%s>%s</%s>", tag, word, tag);
+		
 	}
 }

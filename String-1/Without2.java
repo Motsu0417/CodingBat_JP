@@ -17,6 +17,6 @@ without2("Hi") → ""
 public class Without2{
 	public static String without2(String str) {
 		// ここに回答を記入
-		return ((str.length() > 1) && (str.startsWith(str.substring(str.length()-2)))) ? str.substring(2) : str; 
+		
 	}
 }

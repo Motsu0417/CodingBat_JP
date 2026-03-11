@@ -15,6 +15,6 @@ atFirst("h") → "h@"
 public class AtFirst{
 	public static String atFirst(String str) {
 		// ここに回答を記入
-		return (str+"@@").substring(0, 2);
+		
 	}
 }

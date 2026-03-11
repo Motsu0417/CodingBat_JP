@@ -16,6 +16,6 @@ makeOutWord("[[]]", "word") → "[[word]]"
 public class MakeOutWord{
 	public static String makeOutWord(String out, String word) {
 		// ここに回答を記入
-		return out.substring(0,2) + word + out.substring(2);
+		
 	}
 }

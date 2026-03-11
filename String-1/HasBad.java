@@ -16,6 +16,6 @@ hasBad("xxbadxx") → false
 public class HasBad{
 	public static boolean hasBad(String str) {
 		// ここに回答を記入
-		return (str.length() > 2) && ( str.startsWith("bad") || str.substring(1).startsWith("bad")); 
+		
 	}
 }

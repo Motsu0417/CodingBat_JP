@@ -15,6 +15,6 @@ withoutEnd("coding") → "odin"
 public class WithoutEnd{
 	public static String withoutEnd(String str) {
 		// ここに回答を記入
-		return str.substring(1, str.length()-1);
+		
 	}
 }

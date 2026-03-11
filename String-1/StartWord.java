@@ -17,7 +17,6 @@ startWord("hippo", "i") → "h"
 public class StartWord{
 	public static String startWord(String str, String word) {
 		// ここに回答を記入
-		if(str.length() < word.length()) return "";
-		return (str.substring(1).startsWith(word.substring(1))) ? (str.substring(0,word.length())) : "";
+		
 	}
 }

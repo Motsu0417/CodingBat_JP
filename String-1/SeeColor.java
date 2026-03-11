@@ -16,6 +16,6 @@ seeColor("blueTimes") → "blue"
 public class SeeColor{
 	public static String seeColor(String str) {
 		// ここに回答を記入
-		return (str.startsWith("red") ? "red" : (str.startsWith("blue") ? "blue" : ""));
+		
 	}
 }

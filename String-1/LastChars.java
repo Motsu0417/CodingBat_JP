@@ -16,6 +16,6 @@ lastChars("hi", "") → "h@"
 public class LastChars{
 	public static String lastChars(String a, String b) {
 		// ここに回答を記入
-		return (a + "@").substring(0,1) + ("@" + b).substring(b.length(),b.length()+1);
+		
 	}
 }

@@ -17,6 +17,6 @@ firstTwo("ab") → "ab"
 public class FirstTwo{
 	public static String firstTwo(String str) {
 		// ここに回答を記入
-		return str.length() < 2 ? str : str.substring(0,2);
+		
 	}
 }

@@ -15,7 +15,6 @@ middleThree("solving") → "lvi"
 public class MiddleThree{
 	public static String middleThree(String str) {
 		// ここに回答を記入
-		int strMid = str.length()/2;
-		return str.substring(strMid-1, strMid+2);
+		
 	}
 }

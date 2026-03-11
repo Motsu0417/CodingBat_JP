@@ -16,6 +16,6 @@ nTwice("Chocolate", 1) → "Ce"
 public class NTwice{
 	public static String nTwice(String str, int n) {
 		// ここに回答を記入
-		return str.substring(0, n) + str.substring(str.length()-n);
+		
 	}
 }

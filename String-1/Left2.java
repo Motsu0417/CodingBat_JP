@@ -14,6 +14,6 @@ left2("Hi") → "Hi"
 public class Left2{
 	public static String left2(String str) {
 		// ここに回答を記入
-		return str.substring(2) + str.substring(0,2);
+		
 	}
 }

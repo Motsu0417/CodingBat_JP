@@ -14,6 +14,6 @@ helloName("X") → "Hello X!"
 public class HelloName{
 	public static String helloName(String name) {
 		// ここに回答を記入
-			return String.format("Hello %s!", name);
+		
 	}
 }

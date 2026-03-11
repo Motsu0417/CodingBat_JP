@@ -16,6 +16,6 @@ twoChar("java", 3) → "ja"
 public class TwoChar{
 	public static String twoChar(String str, int index) {
 		// ここに回答を記入
-		return (index > str.length()-2 || index < 0) ? str.substring(0, 2) : str.substring(index, index + 2);
+		
 	}
 }

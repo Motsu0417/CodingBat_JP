@@ -15,9 +15,6 @@ extraEnd("Hi") → "HiHiHi"
 public class ExtraEnd{
 	public static String extraEnd(String str) {
 		// ここに回答を記入
-		return str.substring(str.length()-2).repeat(3);
-		/// Java SE 11 以下ではrepeatは利用できないので、上記がコンパイルエラーになる場合は以下の書き方を利用できます。
-		/// String tmp = str.substring(str.length()-2)
-		/// return tmp + tmp + tmp;
+		
 	}
 }

@@ -15,6 +15,6 @@ comboString("aaa", "b") → "baaab"
 public class ComboString{
 	public static String comboString(String a, String b) {
 		// ここに回答を記入
-		return (a.length() > b.length()) ? (b + a + b) : (a + b + a);
+		
 	}
 }

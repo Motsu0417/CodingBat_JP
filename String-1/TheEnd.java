@@ -15,6 +15,6 @@ theEnd("oh", true) → "o"
 public class TheEnd{
 	public static String theEnd(String str, boolean front) {
 		// ここに回答を記入
-		return front ? str.substring(0,1) : str.substring(str.length()-1);
+		
 	}
 }

@@ -15,6 +15,6 @@ middleTwo("Practice") → "ct"
 public class MiddleTwo{
 	public static String middleTwo(String str) {
 		// ここに回答を記入
-		return str.substring(str.length()/2-1, str.length()/2+1);
+		
 	}
 }

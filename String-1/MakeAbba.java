@@ -14,6 +14,6 @@ makeAbba("What", "Up") → "WhatUpUpWhat"
 public class MakeAbba{
 	public static String makeAbba(String a, String b) {
 		// ここに回答を記入
-		return a + b + b + a;
+		
 	}
 }

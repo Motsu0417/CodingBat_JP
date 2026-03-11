@@ -15,7 +15,6 @@ withoutX("Hxix") → "Hxi"
 public class WithoutX{
 	public static String withoutX(String str) {
 		// ここに回答を記入
-		String removeFrontX = (str.startsWith("x") ? str.substring(1) : str);
-		return removeFrontX.endsWith("x") ? removeFrontX.substring(0, removeFrontX.length()-1) : removeFrontX;
+		
 	}
 }

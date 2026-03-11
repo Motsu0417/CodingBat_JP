@@ -15,6 +15,6 @@ nonStart("shotl", "java") → "hotlava"
 public class NonStart{
 	public static String nonStart(String a, String b) {
 		// ここに回答を記入
-		return a.substring(1) + b.substring(1);
+		
 	}
 }

@@ -15,7 +15,6 @@ minCat("java", "Hello") → "javaello"
 public class MinCat{
 	public static String minCat(String a, String b) {
 		// ここに回答を記入
-		int aLen = a.length(), bLen = b.length();
-		return aLen < bLen ? (a + b.substring(bLen - aLen)) : (a.substring(aLen - bLen) + b);
+		
 	}
 }

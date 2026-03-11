@@ -16,6 +16,6 @@ frontAgain("ed") → true
 public class FrontAgain{
 	public static boolean frontAgain(String str) {
 		// ここに回答を記入
-		return (str.length() > 1) && (str.startsWith(str.substring(str.length()-2)));
+		
 	}
 }

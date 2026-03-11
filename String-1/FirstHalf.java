@@ -15,6 +15,6 @@ firstHalf("abcdef") → "abc"
 public class FirstHalf{
 	public static String firstHalf(String str) {
 		// ここに回答を記入
-		return str.substring(0, str.length()/2);
+		
 	}
 }

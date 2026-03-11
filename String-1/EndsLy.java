@@ -14,6 +14,6 @@ endsLy("oddy") → false
 public class EndsLy{
 	public static boolean endsLy(String str) {
 		// ここに回答を記入
-		return str.endsWith("ly");
+		
 	}
 }

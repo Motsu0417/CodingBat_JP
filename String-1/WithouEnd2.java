@@ -15,6 +15,6 @@ withouEnd2("ab") → ""
 public class WithouEnd2{
 	public static String withouEnd2(String str) {
 		// ここに回答を記入
-		return (str.length() < 3) ? "" : str.substring(1, str.length()-1);
+		
 	}
 }

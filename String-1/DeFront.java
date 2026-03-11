@@ -19,7 +19,6 @@ deFront("away") → "aay"
 public class DeFront{
 	public static String deFront(String str) {
 		// ここに回答を記入
-		String tail = str.length() > 2 ? str.substring(2) : "";
-		return (str.startsWith("a") ? "a" : "") + (str.length() > 1 && str.charAt(1) == 'b' ? "b" : "") + tail; 
+		
 	}
 }
